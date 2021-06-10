@@ -1,4 +1,4 @@
-Django==2.1.2
+Django==2.2.24
 django-cors-headers==3.4.0
 pytz==2020.1
 xlrd==1.2.0
